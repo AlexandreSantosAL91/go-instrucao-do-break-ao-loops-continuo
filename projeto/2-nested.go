@@ -26,14 +26,17 @@ O valor de exterior é 0
 O valor de interno é 0
 O valor de interno é 1
 Saindo do loop interno
+
 O valor de exterior é 1
 O valor de interno é 0
 O valor de interno é 1
 Saindo do loop interno
+
 O valor de exterior é 2
 O valor de interno é 0
 O valor de interno é 1
 Saindo do loop interno
 Saindo do loop externo
+
 Saindo do programa
 */
